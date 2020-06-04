@@ -1,0 +1,13 @@
+C:\Users\Thomas Long\workspace\csharp\garys-garage\bin\Debug\netcoreapp3.1\garys-garage.exe
+C:\Users\Thomas Long\workspace\csharp\garys-garage\bin\Debug\netcoreapp3.1\garys-garage.deps.json
+C:\Users\Thomas Long\workspace\csharp\garys-garage\bin\Debug\netcoreapp3.1\garys-garage.runtimeconfig.json
+C:\Users\Thomas Long\workspace\csharp\garys-garage\bin\Debug\netcoreapp3.1\garys-garage.runtimeconfig.dev.json
+C:\Users\Thomas Long\workspace\csharp\garys-garage\bin\Debug\netcoreapp3.1\garys-garage.dll
+C:\Users\Thomas Long\workspace\csharp\garys-garage\bin\Debug\netcoreapp3.1\garys-garage.pdb
+C:\Users\Thomas Long\workspace\csharp\garys-garage\obj\Debug\netcoreapp3.1\garys-garage.csprojAssemblyReference.cache
+C:\Users\Thomas Long\workspace\csharp\garys-garage\obj\Debug\netcoreapp3.1\garys-garage.AssemblyInfoInputs.cache
+C:\Users\Thomas Long\workspace\csharp\garys-garage\obj\Debug\netcoreapp3.1\garys-garage.AssemblyInfo.cs
+C:\Users\Thomas Long\workspace\csharp\garys-garage\obj\Debug\netcoreapp3.1\garys-garage.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Long\workspace\csharp\garys-garage\obj\Debug\netcoreapp3.1\garys-garage.dll
+C:\Users\Thomas Long\workspace\csharp\garys-garage\obj\Debug\netcoreapp3.1\garys-garage.pdb
+C:\Users\Thomas Long\workspace\csharp\garys-garage\obj\Debug\netcoreapp3.1\garys-garage.genruntimeconfig.cache
